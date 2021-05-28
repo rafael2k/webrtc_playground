@@ -13,4 +13,6 @@ https://git.aweirdimagination.net/perelman/minimal-webrtc-gstreamer
 
 https://git.aweirdimagination.net/perelman/minimal-webrtc
 
+https://cloud.google.com/architecture/gpu-accelerated-streaming-using-webrtc#gstreamer_pipeline
+
 ... and gstreamer webrtc plugins...
