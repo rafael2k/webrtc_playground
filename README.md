@@ -1,6 +1,8 @@
 # webrtc_playground
 Playground for WebRTC experiments
 
+MOVED TO: https://maia.press/git/maia/webrtc
+
 ## References:
 
 https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling
